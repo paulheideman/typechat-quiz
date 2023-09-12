@@ -1,0 +1,18 @@
+{
+  "name": "typechat-quiz",
+  "version": "0.0.1",
+  "main": "src/main.ts",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^20.4.4",
+    "typechat": "^0.0.10"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  }
+}

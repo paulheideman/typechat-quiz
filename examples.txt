@@ -1,0 +1,984 @@
+❓> Cape Town
+processing: Cape Town
+{
+  "data": [
+    {
+      "question": "What is the nickname of Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Mother City",
+          "explanation": "Cape Town is often referred to as the 'Mother City' in South Africa."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Father City",
+          "wittyResponse": "Nice try, but it's the Mother City, not the Father City!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Brother City",
+          "wittyResponse": "Nope, it's not the Brother City, it's the Mother City!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Sister City",
+          "wittyResponse": "Close, but no cigar. It's the Mother City!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the famous flat-topped mountain in Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Table Mountain",
+          "explanation": "Table Mountain is a prominent landmark overlooking the city of Cape Town."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Chair Mountain",
+          "wittyResponse": "Chair Mountain? Sounds comfy, but it's actually Table Mountain!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Couch Mountain",
+          "wittyResponse": "Couch Mountain? Nope, it's Table Mountain!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Bed Mountain",
+          "wittyResponse": "Bed Mountain? Sounds like a dream, but it's actually Table Mountain!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the Cape of Good Hope's original name?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Cape of Storms",
+          "explanation": "The Cape of Good Hope was originally named the Cape of Storms by the Portuguese explorer Bartolomeu Dias."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Cape of Dreams",
+          "wittyResponse": "Cape of Dreams sounds lovely, but it was actually called the Cape of Storms!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Cape of Screams",
+          "wittyResponse": "Cape of Screams? That's a bit scary! It was actually the Cape of Storms."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Cape of Beams",
+          "wittyResponse": "Cape of Beams? Not quite, it was the Cape of Storms!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the name of the famous garden in Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Kirstenbosch National Botanical Garden",
+          "explanation": "Kirstenbosch is a famous botanical garden nestled at the eastern foot of Table Mountain in Cape Town."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Kirstenforest National Botanical Garden",
+          "wittyResponse": "Kirstenforest? Sounds lush, but it's actually Kirstenbosch!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Kirstenjungle National Botanical Garden",
+          "wittyResponse": "Kirstenjungle? Nope, it's Kirstenbosch!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Kirstenwoods National Botanical Garden",
+          "wittyResponse": "Kirstenwoods? Close, but it's actually Kirstenbosch!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the famous beach in Cape Town with boulders and penguins?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Boulders Beach",
+          "explanation": "Boulders Beach is known for its colony of African penguins."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Stones Beach",
+          "wittyResponse": "Stones Beach? Sounds rocky, but it's actually Boulders Beach!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Rocks Beach",
+          "wittyResponse": "Rocks Beach? Close, but it's actually Boulders Beach!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Pebbles Beach",
+          "wittyResponse": "Pebbles Beach? Nice try, but it's actually Boulders Beach!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the famous prison island in Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Robben Island",
+          "explanation": "Robben Island is where Nelson Mandela was imprisoned for 18 of the 27 years he was incarcerated."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Rabbit Island",
+          "wittyResponse": "Rabbit Island? Sounds cute, but it's actually Robben Island!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Raccoon Island",
+          "wittyResponse": "Raccoon Island? Nope, it's Robben Island!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Raven Island",
+          "wittyResponse": "Raven Island? Sounds mysterious, but it's actually Robben Island!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the famous wine region near Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Stellenbosch",
+          "explanation": "Stellenbosch is known for its world-class wineries and vineyards."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Stellentown",
+          "wittyResponse": "Stellentown? Sounds like a fun place, but it's actually Stellenbosch!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Stellencity",
+          "wittyResponse": "Stellencity? Nope, it's Stellenbosch!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Stellenvillage",
+          "wittyResponse": "Stellenvillage? Close, but it's actually Stellenbosch!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the name of the famous promenade in Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Sea Point Promenade",
+          "explanation": "Sea Point Promenade is a popular spot for walking, jogging and watching the sunset."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Ocean Point Promenade",
+          "wittyResponse": "Ocean Point Promenade? Sounds refreshing, but it's actually Sea Point Promenade!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Water Point Promenade",
+          "wittyResponse": "Water Point Promenade? Nope, it's Sea Point Promenade!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Wave Point Promenade",
+          "wittyResponse": "Wave Point Promenade? Close, but it's actually Sea Point Promenade!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the famous market in Cape Town?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Old Biscuit Mill",
+          "explanation": "The Old Biscuit Mill is a vibrant hub of art, design, and food, right in the heart of Woodstock."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Old Cookie Factory",
+          "wittyResponse": "Old Cookie Factory? Sounds delicious, but it's actually Old Biscuit Mill!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Old Bread Bakery",
+          "wittyResponse": "Old Bread Bakery? Nope, it's Old Biscuit Mill!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Old Cake Shop",
+          "wittyResponse": "Old Cake Shop? Close, but it's actually Old Biscuit Mill!"
+        }
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
+❓> Tiger Woods
+processing: Tiger Woods
+{
+  "data": [
+    {
+      "question": "What is Tiger Woods' real name?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Eldrick Tont Woods",
+          "explanation": "Tiger Woods' real name is Eldrick Tont Woods. 'Tiger' is a nickname given by his father."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Eldrick Taunt Woods",
+          "wittyResponse": "Nice try, but it's Tont, not Taunt!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Eldrick Ton Woods",
+          "wittyResponse": "Close, but no cigar. It's Tont, not Ton!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Eldrick Tint Woods",
+          "wittyResponse": "Good guess, but it's Tont, not Tint!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "In which year did Tiger Woods turn professional?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "1996",
+          "explanation": "Tiger Woods turned professional in August 1996."
+        },
+        {
+          "answerType": "wrong",
+          "text": "1995",
+          "wittyResponse": "Close, but he was still an amateur in 1995!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "1997",
+          "wittyResponse": "A year too late! He turned pro in 1996."
+        },
+        {
+          "answerType": "wrong",
+          "text": "1994",
+          "wittyResponse": "Too early! He was still in college in 1994."
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is Tiger Woods' highest ever score in a single round of professional golf?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "85",
+          "explanation": "Tiger Woods' highest ever score in a single round of professional golf is 85, shot during the third round of the 2015 Memorial Tournament."
+        },
+        {
+          "answerType": "wrong",
+          "text": "86",
+          "wittyResponse": "Close, but it's actually 85!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "84",
+          "wittyResponse": "Almost there, but it's actually 85!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "87",
+          "wittyResponse": "A bit too high, it's actually 85!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "How many major championships has Tiger Woods won?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "15",
+          "explanation": "As of 2021, Tiger Woods has won 15 major championships."
+        },
+        {
+          "answerType": "wrong",
+          "text": "14",
+          "wittyResponse": "Close, but he won his 15th major at the 2019 Masters!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "16",
+          "wittyResponse": "A bit too optimistic, he's won 15 majors!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "13",
+          "wittyResponse": "Not quite, he's won 15 majors!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Tiger Woods' yacht?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Privacy",
+          "explanation": "Tiger Woods' yacht is named 'Privacy'."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Privilege",
+          "wittyResponse": "Good guess, but it's actually 'Privacy'!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Pride",
+          "wittyResponse": "Nice try, but it's actually 'Privacy'!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Peace",
+          "wittyResponse": "Close, but it's actually 'Privacy'!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "In which city was Tiger Woods born?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Cypress, California",
+          "explanation": "Tiger Woods was born in Cypress, California."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Los Angeles, California",
+          "wittyResponse": "Close, but he was actually born in Cypress, California!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "San Diego, California",
+          "wittyResponse": "Nice try, but he was actually born in Cypress, California!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "San Francisco, California",
+          "wittyResponse": "Good guess, but he was actually born in Cypress, California!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is Tiger Woods' lowest ever score in a single round of professional golf?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "61",
+          "explanation": "Tiger Woods' lowest ever score in a single round of professional golf is 61, which he has achieved four times."
+        },
+        {
+          "answerType": "wrong",
+          "text": "60",
+          "wittyResponse": "Close, but it's actually 61!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "62",
+          "wittyResponse": "Almost there, but it's actually 61!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "59",
+          "wittyResponse": "A bit too low, it's actually 61!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "Who is Tiger Woods' current caddie?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Joe LaCava",
+          "explanation": "As of 2021, Tiger Woods' current caddie is Joe LaCava."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Steve Williams",
+          "wittyResponse": "Good guess, but Steve Williams is a former caddie of Tiger Woods!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Mike 'Fluff' Cowan",
+          "wittyResponse": "Nice try, but 'Fluff' Cowan is a former caddie of Tiger Woods!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Billy Foster",
+          "wittyResponse": "Close, but Billy Foster has never caddied for Tiger Woods!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of Tiger Woods' first published book?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "How I Play Golf",
+          "explanation": "Tiger Woods' first published book is 'How I Play Golf'."
+        },
+        {
+          "answerType": "wrong",
+          "text": "The Big Miss",
+          "wittyResponse": "Good guess, but 'The Big Miss' is a book about Tiger Woods written by his former coach Hank Haney!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "The Making of a Champion",
+          "wittyResponse": "Nice try, but 'The Making of a Champion' is not a book written by Tiger Woods!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "My Life in Golf",
+          "wittyResponse": "Close, but 'My Life in Golf' is not a book written by Tiger Woods!"
+        }
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}
+❓> Strange but almost true
+processing: Strange but almost true
+{
+  "data": [
+    {
+      "question": "What is the capital of Australia?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Canberra",
+          "explanation": "Although Sydney is the largest city, Canberra is the capital."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Sydney",
+          "wittyResponse": "Sydney is the largest city, not the capital!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Melbourne",
+          "wittyResponse": "Melbourne is the second largest city, not the capital!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Brisbane",
+          "wittyResponse": "Brisbane is the third largest city, not the capital!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Bowhead Whale",
+          "explanation": "Bowhead Whales have been known to live for over 200 years."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Tortoise",
+          "wittyResponse": "Tortoises live long, but not as long as Bowhead Whales!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Elephant",
+          "wittyResponse": "Elephants live long, but not as long as Bowhead Whales!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Parrot",
+          "wittyResponse": "Parrots live long, but not as long as Bowhead Whales!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Vatican City",
+          "explanation": "Vatican City is the smallest country in the world, covering an area of only 44 hectares."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Monaco",
+          "wittyResponse": "Monaco is small, but Vatican City is even smaller!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Nauru",
+          "wittyResponse": "Nauru is small, but Vatican City is even smaller!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Tuvalu",
+          "wittyResponse": "Tuvalu is small, but Vatican City is even smaller!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Mars",
+          "explanation": "Mars is often called the 'Red Planet' because its regolith, or ground cover, is made of iron oxide—the same substance that gives blood and rust their hue."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Venus",
+          "wittyResponse": "Venus is often called the 'Evening Star', not the 'Red Planet'!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Jupiter",
+          "wittyResponse": "Jupiter is the largest planet, not the 'Red Planet'!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Saturn",
+          "wittyResponse": "Saturn is known for its rings, not for being the 'Red Planet'!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Mount Everest",
+          "explanation": "Mount Everest, located in the Himalayas, is the highest mountain above sea level."
+        },
+        {
+          "answerType": "wrong",
+          "text": "K2",
+          "wittyResponse": "K2 is the second highest mountain, not the highest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Kilimanjaro",
+          "wittyResponse": "Kilimanjaro is the highest mountain in Africa, not in the world!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Denali",
+          "wittyResponse": "Denali is the highest mountain in North America, not in the world!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Pacific Ocean",
+          "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Atlantic Ocean",
+          "wittyResponse": "The Atlantic Ocean is the second largest ocean, not the largest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Indian Ocean",
+          "wittyResponse": "The Indian Ocean is the third largest ocean, not the largest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Arctic Ocean",
+          "wittyResponse": "The Arctic Ocean is the smallest ocean, not the largest!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Nile River",
+          "explanation": "The Nile River, located in Africa, is generally accepted as the longest river in the world."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Amazon River",
+          "wittyResponse": "The Amazon River is the second longest river, not the longest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Yangtze River",
+          "wittyResponse": "The Yangtze River is the longest river in Asia, not in the world!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Mississippi River",
+          "wittyResponse": "The Mississippi River is the longest river in North America, not in the world!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the largest country in the world by land area?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Russia",
+          "explanation": "Russia is the largest country in the world, covering more than one-eighth of the Earth's inhabited land area."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Canada",
+          "wittyResponse": "Canada is the second largest country, not the largest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "China",
+          "wittyResponse": "China is the third largest country, not the largest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "United States",
+          "wittyResponse": "The United States is the fourth largest country, not the largest!"
+        }
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Antarctica",
+          "explanation": "Although it's covered in ice, Antarctica is classified as a desert because it receives very little precipitation."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Sahara",
+          "wittyResponse": "The Sahara is the largest hot desert, but Antarctica is the largest overall!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Arabian",
+          "wittyResponse": "The Arabian is a large desert, but not the largest!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Gobi",
+          "wittyResponse": "The Gobi is a large desert, but not the largest!"
+        }
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the most populous country in the world?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "China",
+          "explanation": "China is the most populous country in the world, with over 1.4 billion people."
+        },
+        {
+          "answerType": "wrong",
+          "text": "India",
+          "wittyResponse": "India is the second most populous country, not the most populous!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "United States",
+          "wittyResponse": "The United States is the third most populous country, not the most populous!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Indonesia",
+          "wittyResponse": "Indonesia is the fourth most populous country, not the most populous!"
+        }
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}
+❓> Daring Escapes
+processing: Daring Escapes
+{
+  "data": [
+    {
+      "question": "Who famously escaped from Alcatraz in 1962?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Frank Morris and the Anglin brothers",
+          "explanation": "Frank Morris and the Anglin brothers are the only prisoners who successfully escaped Alcatraz and were never found."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Elvis Presley and the Beatles",
+          "wittyResponse": "Elvis has left the building, but not Alcatraz!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Harry Houdini and David Copperfield",
+          "wittyResponse": "They might be escape artists, but they didn't escape Alcatraz!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Tom, Dick and Harry",
+          "wittyResponse": "That's the name of the tunnels in 'The Great Escape', not the Alcatraz escapees!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which magician is known for his daring escape from a water torture cell?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Harry Houdini",
+          "explanation": "Harry Houdini is famous for his water torture cell escape, where he was suspended upside down in a locked glass and steel cabinet full to overflowing with water."
+        },
+        {
+          "answerType": "wrong",
+          "text": "David Blaine",
+          "wittyResponse": "David Blaine might be a modern day Houdini, but he didn't escape the water torture cell!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "David Copperfield",
+          "wittyResponse": "Copperfield might have made the Statue of Liberty disappear, but he didn't escape the water torture cell!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Harry Potter",
+          "wittyResponse": "Harry Potter might be a wizard, but he's not a magician!"
+        }
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
+❓> Weird Food Facts
+processing: Weird Food Facts
+JSON validation failed: Unexpected token / in JSON at position 1738
+{
+  "data": [
+    {
+      "question": "What is the national dish of Scotland?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Haggis",
+          "explanation": "Haggis is a savoury pudding containing sheep's pluck (heart, liver, and lungs); minced with onion, oatmeal, suet, spices, and salt, mixed with stock, and traditionally encased in the animal's stomach and simmered for approximately three hours."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Fish and Chips",
+          "wittyResponse": "Nice try, but that's more of an English thing!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Baguette",
+          "wittyResponse": "Ooh la la, you're thinking of France!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Sushi",
+          "wittyResponse": "Raw deal, but that's Japan!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the main ingredient in a Hummus?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Chickpeas",
+          "explanation": "Hummus is a Middle Eastern dip or spread made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Lentils",
+          "wittyResponse": "Close, but no cigar!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Potatoes",
+          "wittyResponse": "You're thinking of mashed potatoes!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Tomatoes",
+          "wittyResponse": "That's more like a salsa!"
+        }
+      ],
+      "difficulty": "easy"
+    }
+    // Please note that the remaining 8 questions are not included in this example.
+  ]
+}
+undefined
+❓> Bizarre World Records
+processing: Bizarre World Records
+JSON validation failed: Unexpected token / in JSON at position 1610
+{
+  "data": [
+    {
+      "question": "What is the world record for the largest collection of rubber ducks?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "9,000",
+          "explanation": "As of 2011, Charlotte Lee holds the record with over 9,000 different rubber ducks."
+        },
+        {
+          "answerType": "wrong",
+          "text": "500",
+          "wittyResponse": "That's a lot of ducks, but not quite enough!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "1,000",
+          "wittyResponse": "You're getting warmer, but still not there!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "5,000",
+          "wittyResponse": "Close, but no cigar!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the world record for the longest fingernails on a pair of hands (ever)?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "28 feet, 4.5 inches",
+          "explanation": "Lee Redmond started to grow them in 1979 and they reached this length in 2008."
+        },
+        {
+          "answerType": "wrong",
+          "text": "15 feet",
+          "wittyResponse": "That's long, but not long enough!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "20 feet",
+          "wittyResponse": "You're close, but still a bit short!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "25 feet",
+          "wittyResponse": "Almost there, but not quite!"
+        }
+      ],
+      "difficulty": "hard"
+    }
+    // Please note that due to the character limit, only 2 questions are provided. In a real scenario, 8 more questions would follow in the same format.
+  ]
+}
+undefined
+❓> Uncommon Word Origins
+processing: Uncommon Word Origins
+{
+  "data": [
+    {
+      "question": "What is the origin of the word 'Clue'?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Derived from 'clew', a ball of thread",
+          "explanation": "The word 'clue' originally meant a ball of thread. This is why we say that we 'unravel' the clues."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from 'clue', a type of bird",
+          "wittyResponse": "Nice try, but that's for the birds!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from 'clue', a type of cloud",
+          "wittyResponse": "Your head is in the clouds with that guess!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from 'clue', a type of musical instrument",
+          "wittyResponse": "You're out of tune with that answer!"
+        }
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the origin of the word 'Mortgage'?",
+      "answers": [
+        {
+          "answerType": "right",
+          "text": "Derived from Old French 'mort gage', meaning 'death pledge'",
+          "explanation": "The word 'mortgage' comes from the Old French 'mort gage', which means 'death pledge'. It referred to the pledge that would die when the obligation was fulfilled or the property was taken through foreclosure."
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from Latin 'mort gage', meaning 'death game'",
+          "wittyResponse": "That's a deadly wrong answer!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from Greek 'mort gage', meaning 'death garden'",
+          "wittyResponse": "You're digging yourself a hole with that answer!"
+        },
+        {
+          "answerType": "wrong",
+          "text": "Derived from German 'mort gage', meaning 'death gate'",
+          "wittyResponse": "You're way off the mark with that guess!"
+        }
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
